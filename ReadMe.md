@@ -26,7 +26,7 @@
 
 ### Default Setting
 When running without any argument:
-
+```
 > node -p "require('LiveScriptWatch')()"
 ```
 it does the same as:
