@@ -1,0 +1,27 @@
+{
+  "name": "MarkdownWatch",
+  "version": "0.0.1",
+  "description": "MarkdownWatch",
+  "author": "joykrishnamondal <joykrishnamondal@gmail.com>",
+  "main": "Compile.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/JoyKrishnaMondal/MarkdownWatch.git"
+},
+  "keywords": [
+  "livescript",
+  "DevOps",
+  "Markdown Compiler",
+  "Simple",
+  "tiny"
+],
+  "dependencies": {
+    "GeneralDev":"https://github.com/JoyKrishnaMondal/GeneralDev.git"
+    
+  },
+  "devDependencies": {
+    "LiveScriptWatch": "https://github.com/JoyKrishnaMondal/LiveScriptWatch.git"
+  },
+  "license": "MIT License"
+}
+  
