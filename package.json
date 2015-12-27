@@ -17,7 +17,7 @@
 ],
   "dependencies": {
     "GeneralDev":"https://github.com/JoyKrishnaMondal/GeneralDev.git",
-    "mardown":"*"
+    "markdown":"*"
     
   },
   "devDependencies": {
