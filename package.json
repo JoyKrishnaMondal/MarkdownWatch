@@ -16,7 +16,8 @@
   "tiny"
 ],
   "dependencies": {
-    "GeneralDev":"https://github.com/JoyKrishnaMondal/GeneralDev.git"
+    "GeneralDev":"https://github.com/JoyKrishnaMondal/GeneralDev.git",
+    "mardown":"*"
     
   },
   "devDependencies": {
